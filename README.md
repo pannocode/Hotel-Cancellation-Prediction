@@ -15,7 +15,7 @@
 
 
 ## Overview
-This is a multiclass classification project, which takes input of multiple feature influencing the students adapitibility in Online Education along with the corresposding adaptibility level and predicts the class label for a data.
+This is a Binary classification project, which takes input of multiple Factors that influencing the Hotel Booking-Cancellation.
 
 **Models trained**
 
@@ -37,8 +37,7 @@ This is a multiclass classification project, which takes input of multiple featu
 
 ## Motivation and Goal
 
-We all have seen a major shift in education system. Covid has transformed the way of teaching. Now more and more students are studying on Online Medium. With this project we are trying to understand its impact and determine which students are likely to adapt quickly and which are not so likely to.
-There are many precussors to it. 
+Hotel and facility business are booming with profit following the trend of tourism but the only thing that haunts its profitability is the last minute cancellation as it renders the hotels with a lost of opportuity of profit realisation as well as wasted cost room preparation management, which is sometimes rented with great discounts. 
 
 Lets Explore the available data.
 
@@ -74,11 +73,9 @@ Lets Explore the available data.
         7. Scipy
 
 
-
 ## References and Guides
 
     1. Kaggle
     2. Great Learning
     3. Towards Data Science
-    4. Medium
-    5. Analytics Vidhya 
+    4. Analytics Vidhya 
