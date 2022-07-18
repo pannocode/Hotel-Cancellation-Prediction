@@ -1,6 +1,5 @@
-![Hotel Cancellation](https://media1.giphy.com/media/fLyheNEqFztwpZzLeQ/200w.webp?cid=ecf05e47thl4qoguqeq741m4p4kafhe7dum5o1l257iz4mg4&rid=200w.webp&ct=g)
 # Students Adaptibility Prediction in Online Education
-
+![Hotel Cancellation](https://media1.giphy.com/media/fLyheNEqFztwpZzLeQ/200w.webp?cid=ecf05e47thl4qoguqeq741m4p4kafhe7dum5o1l257iz4mg4&rid=200w.webp&ct=g)
 
 
 ## Table of Content
